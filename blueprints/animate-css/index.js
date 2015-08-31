@@ -5,6 +5,6 @@ module.exports = {
   },
 
   beforeInstall: function(options) {
-    return this.addBowerPackageToProject("animate.css", "~3.2.0");
+    return this.addBowerPackageToProject("animate.css", "~3.4.0");
   }
 };
